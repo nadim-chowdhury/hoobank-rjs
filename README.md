@@ -1,3 +1,3 @@
 # hoobank-rjs
 
-This a react js website.
+This is a react js website.
